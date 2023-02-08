@@ -1,5 +1,5 @@
 
-function suma(x,y){console.log(x+y);}
+function suma(x,y,z){console.log(x+y+z);}
 function resta(x,y){console.log(x-y);}
 function multiplicacion(x,y){console.log(x*y);}
 function division(x,y){console.log(x/y);}
