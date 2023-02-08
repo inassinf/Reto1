@@ -1,1 +1,2 @@
 # Reto1
+en la rama 1 sea ha suprimido la funcon suma, y en la rama 2 se ha modificado esta aniadiendole un valor y parametro . Al unificar estas dos acciones en la rama ppal, se nos han creado una serie de conflictos. Al resolverlo en el editor de combinacion, hemos aceptado la entrada de la funcion suma modificada y eliminado una linea en blanco. Lo cual hace que el archivo este completo y sin errores.
